@@ -62,16 +62,11 @@ Interactive map application built with React and Leaflet.
 Machine Learning project for detecting forest fires using image segmentation techniques.
 
 ---
+## 📊 GitHub Metrics
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashas8gatty&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas8gatty&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
 
 ---
 
