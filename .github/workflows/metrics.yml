@@ -1,4 +1,4 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
@@ -18,24 +18,43 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # GitHub Username
           user: Yashas8gatty
 
+          # Theme & Template
           template: classic
           base: header, activity, community, repositories, metadata
 
+          # Timezone
           config_timezone: Asia/Kolkata
 
+          ###################################
+          # Plugins
+          ###################################
+
+          # Most Used Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
 
+          # Contribution Calendar
           plugin_isocalendar: yes
 
-          plugin_habits: yes
-          plugin_habits_days: 30
+          # Repository Topics
+          plugin_topics: yes
+          plugin_topics_limit: 12
 
+          # Follow-up Stats
+          plugin_followup: yes
+
+          # Stars
           plugin_stars: yes
 
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+          ###################################
+          # Disabled (causing errors)
+          ###################################
+
+          plugin_habits: no
+          plugin_achievements: no
