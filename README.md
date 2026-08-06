@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi there 👋 I'm Yashas
+# Hey 👋 I'm Yashas
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Frontend+Developer;AI+%26+ML+Student;Learning+Go+%26+Backend;Building+Production+Ready+Applications)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Yashas8gatty&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Production+Web+Applications;Learning+Go+%26+Backend+Engineering;Always+Shipping+Something+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,122 +10,86 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 AI & ML Undergraduate at **Canara Engineering College**
-* 💼 Frontend Intern working with **React + TypeScript**
-* 🚛 Building production-grade web applications for the logistics domain
-* 🌱 Currently learning **Go**, backend development, Docker, and system design
-* 💡 Passionate about building scalable applications with clean UI and efficient APIs
-* 🎯 Goal: Become a Software Development Engineer
+I'm an AI & ML undergraduate who enjoys building software more than talking about software.
+
+Currently working as a Frontend Intern where I build production features, integrate REST APIs, improve application performance and solve real-world bugs.
+
+Outside work you'll usually find me solving DSA problems, learning backend engineering with Go or building projects that teach me something new.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Currently Building
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,go,python,nodejs,express,postgres,mongodb,supabase,docker,git,github,vscode,tailwind,html,css&perline=9"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 📄 ResumeRoaster
-
-AI-powered resume review platform that provides actionable feedback through an intuitive interface.
-
-**Tech:** React • TypeScript • Express • Tailwind CSS • Supabase
+- Production logistics platform using React + TypeScript
+- Backend services in Go
+- Better UI systems with Tailwind & ShadCN
+- DSA for Software Engineering interviews
 
 ---
 
-### 🎓 EduCareer
+## ⚡ Tech Stack
 
-Internship and job finder platform that aggregates opportunities from multiple sources.
+<p align="center">
 
-**Tech:** React • Python • APIs
+<img src="https://skillicons.dev/icons?i=react,ts,js,go,nodejs,express,postgres,mongodb,supabase,docker,git,github,vscode,tailwind,python&perline=8"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🚛 ResumeRoaster
+
+AI-powered resume analyzer built using React, Express and Supabase.
+
+**Stack**
+
+React • TypeScript • Express • Tailwind • Gemini API • Supabase
+
+---
+
+### 🎯 EduCareer
+
+Internship aggregation platform helping students discover opportunities from multiple sources.
 
 ---
 
 ### 🗺️ Mangalore City Map
 
-Interactive map application built with React and Leaflet.
-
-**Tech:** React • Leaflet • Tailwind CSS
+Interactive mapping platform built with React and Leaflet.
 
 ---
 
-### 🌲 Forest Fire Prediction
-
-Machine Learning project for detecting forest fires using image segmentation techniques.
-
----
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="Metrics">
+<img src="./github-metrics.svg" width="95%">
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Activity
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Yashas8gatty&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
----
-
-## 📊 Contribution Graph
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashas8gatty&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Connect
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yashas8gatty&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```text
-Go
-Backend Development
-System Design
-Docker
-Cloud Technologies
-Data Structures & Algorithms
-```
-
----
-
-## 🎯 2026 Goals
-
-* Build impactful full-stack applications
-* Strengthen backend engineering skills in Go
-* Contribute to open source
-* Solve 500+ DSA problems
-* Land a Software Development Engineer role
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -135,16 +97,12 @@ Data Structures & Algorithms
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ *"Code. Learn. Build. Repeat."*
+*"Good software is built one thoughtful commit at a time."*
 
 </div>
