@@ -39,6 +39,18 @@ I enjoy working across the stack, exploring backend engineering with Go, experim
 
 ## 📌 Featured Projects
 
+
+### 🏥 Hospital Costing & Billing Management System
+**Institute of Applied Dermatology (IAD)**
+
+- Developed a hospital management application for patient management, treatment costing, billing and reporting.
+- Built REST APIs with JWT authentication and role-based access control.
+- Implemented PostgreSQL integration, data validation and audit logging.
+- Designed the system for deployment across multiple IAD branches in India.
+
+**Stack:** React, TypeScript, Node.js, Express, PostgreSQL, JWT
+
+
 ### 🤖 ResumeRoast
 **LLM-powered Resume Analysis Platform**
 
