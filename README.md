@@ -90,9 +90,7 @@ I enjoy working across the stack, exploring backend engineering with Go, experim
 <img src="https://streak-stats.demolab.com?user=Yashas8gatty&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashas8gatty&theme=tokyo-night&hide_border=true"/>
-</p>
+
 
 ---
 
